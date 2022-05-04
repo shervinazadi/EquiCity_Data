@@ -1,0 +1,18 @@
+{
+  "projects": ["observer"],
+  "state": {
+    "decision": [
+      [0.1, 0.2, 0.3, 0.4],
+      [0.1, 0.2, 0.3, 0.4],
+      [0.1, 0.2, 0.3, 0.4],
+      [0.1, 0.2, 0.3, 0.4],
+      [0.1, 0.2, 0.3, 0.4],
+      [0.1, 0.2, 0.3, 0.4],
+      [0.1, 0.2, 0.3, 0.4]
+    ],
+    "decision_submit": 1,
+    "massing_decision": [0.2, 0.4, 0.6, 0.8],
+    "selected_lattice": "assignment",
+    "selected_project": "equicity_kabeldistrict"
+  }
+}
